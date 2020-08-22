@@ -76,7 +76,7 @@ Stay tuned...
   <br>
   <img align="left" alt="sticklemate's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sticklemate&show_icons=true&hide_border=true&hide=stars&theme=dark" />
   <br><br>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sticklemate&layout=compact&hide=html" alt="sticklemate" /></p>
+  <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sticklemate&layout=compact&hide=html" alt="sticklemate" /></p> -->
   
 </details>
 
