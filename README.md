@@ -72,9 +72,14 @@ Stay tuned...
 
 
 <details>
-  <summary>:zap: Github Stats</summary>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sticklemate&layout=compact&hide=html" alt="sticklemate" /><img align="right" alt="sticklemate's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sticklemate&show_icons=true&hide_border=true&hide=stars&theme=dark" /></p>
-
+  <summary>:zap: Github Coding Stats</summary>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sticklemate&layout=compact&hide=html" alt="sticklemate" /></p>
+  
+</details>
+<br>
+<details>
+<summary>:zap: Github Repo Stats</summary>
+<img align="left" alt="sticklemate's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sticklemate&show_icons=true&hide_border=true&hide=stars&theme=dark" />
 </details>
 
 [website]: https://codeSTACKr.com
