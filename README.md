@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to read a lot and play guitar
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem.sticklemate.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/Sticklemate)
+[<img src="https://novatorem-jl6wvxwwe.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/Sticklemate)
 
 ### Connect with me:
 
