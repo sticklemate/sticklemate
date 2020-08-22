@@ -66,7 +66,7 @@ Stay tuned...
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="sticklemate's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="sticklemate's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sticklemate&show_icons=true&hide_border=true" />
 
 </details>
 
