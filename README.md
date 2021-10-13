@@ -7,7 +7,7 @@
 - 🔭 I’m currently working as an Application Developer in Education industry
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects and get vaccinated of-course!
 - ⚡ Fun fact: Quarantine life has rekindled my love to read and I'm also learning guitar in my free time!
 
 ### Current song on Spotify 🎧
