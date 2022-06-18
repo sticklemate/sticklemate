@@ -4,10 +4,10 @@
 
 ## I'm a Developer, Gamer and a Tech Enthusiast!
 
-- 🔭 I’m currently working as an Application Developer in Education industry
+- 🔭 I’m currently working as a Full stack Application Developer in Education industry
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects and get vaccinated of-course!
+- 🥅 2022 Goals: Contribute more to Open Source projects and get that Booster shot!
 - ⚡ Fun fact: Quarantine life has rekindled my love to read and I'm also learning guitar in my free time!
 
 ### Current song on Spotify 🎧
